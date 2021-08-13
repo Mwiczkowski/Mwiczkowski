@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mwiczkowski
-- 👀 I’m interested in .NET Junior Dev Position.
-- 🌱 I’m currently learning C# and .NET framework.
+- 👀 I’m interested in star working with C# as .NET Junior Dev professionally.
+- 🌱 I’m currently learning C# and .NET framework on my own as much as posible. 
 - 💞️ I’m looking to collaborate on some interesting and developmental projects!
 - 📫 How to reach me: https://www.linkedin.com/in/milosz-wiczkowski-368455144/
 
